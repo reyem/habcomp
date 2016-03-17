@@ -1,0 +1,22 @@
+{
+  "name": "digitalDigit",
+  "homepage": "https://github.com/reyem/habcomp",
+  "authors": [
+    "Marco Meyer <marco.g.meyer@gmail.com>"
+  ],
+  "description": "web component to display a digital digit",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "webcomponentsjs": "^0.7.21"
+  }
+}
